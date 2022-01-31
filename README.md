@@ -7,7 +7,8 @@ Install Java SDK.
 
 The IDE to use is [IntellIJ IDEA] (https://www.jetbrains.com/es-es/idea/download/). Community version is enough for Course completion.
 
-Create your own GitHub account. Follow this guideline to setup your account. Also you can read further about Git in Try Git or Learn Git Branching
+Create your own GitHub account. Follow this guideline(https://help.github.com/articles/set-up-git) to setup your account. Also you can read further about Git in Try Git(https://try.github.io/levels/1/challenges/1) or Learn Git Branching(http://pcottle.github.io/learnGitBranching/)
+
 
 Fork this repo to use as a base to host the project code. Read this for instructions.
 
