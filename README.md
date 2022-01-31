@@ -7,8 +7,6 @@ Install Java SDK.
 
 The IDE to use is [IntellIJ IDEA] (https://www.jetbrains.com/es-es/idea/download/). Community version is enough for Course completion.
 
-Download and install Slack's application. You will receive an invitation in your email to join to Slack's workspace glb-bootcamp-chaco or just sign in to https://glb-bootcamp-chaco.slack.com and join the channel #general , please updated your profile picture with your face!
-
 Create your own GitHub account. Follow this guideline to setup your account. Also you can read further about Git in Try Git or Learn Git Branching
 
 Fork this repo to use as a base to host the project code. Read this for instructions.
